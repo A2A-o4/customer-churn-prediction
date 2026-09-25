@@ -1,0 +1,5 @@
+model,ROC-AUC,F1,Recall,Precision
+Baseline (majority class),0.5,0.0,0.0,0.0
+Logistic Regression,0.845,0.622,0.799,0.509
+Random Forest,0.842,0.626,0.719,0.553
+XGBoost,0.845,0.637,0.802,0.528
